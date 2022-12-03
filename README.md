@@ -1,1 +1,3 @@
-# pandas_for_security_analysts
+# Pandas for Security Analysts
+
+A work in progress.
